@@ -1,0 +1,1 @@
+"This is a Market Prediction application for financial analysis." 
